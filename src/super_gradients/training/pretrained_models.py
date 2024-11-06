@@ -46,7 +46,7 @@ MODEL_URLS = {
     "ppyoloe_x_coco": "https://sg-hub-nv.s3.amazonaws.com/models/ppyoloe_x_coco.pth",
     "yolo_nas_s_coco": "https://sg-hub-nv.s3.amazonaws.com/models/yolo_nas_s_coco.pth",
     "yolo_nas_m_coco": "https://sg-hub-nv.s3.amazonaws.com/models/yolo_nas_m_coco.pth",
-    "yolo_nas_l_coco": "https://sg-hub-nv.s3.amazonaws.com/models/yolo_nas_l_coco.pth",
+    "yolo_nas_l_coco": "https://yolo-nas-l-model.s3.us-east-2.amazonaws.com/yolo_nas_l_coco.pth",
     "dekr_w32_no_dc_coco_pose": "https://sg-hub-nv.s3.amazonaws.com/models/dekr_w32_no_dc_coco_pose.pth",
     "pose_rescoring_coco_coco_pose": "https://sg-hub-nv.s3.amazonaws.com/models/pose_rescoring_coco_coco_pose.pth",
     "segformer_b0_cityscapes": "https://sg-hub-nv.s3.amazonaws.com/models/segformer_b0_cityscapes.pth",
